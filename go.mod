@@ -1,4 +1,4 @@
-module modbusplus
+module github.com/lishuangquan1987/modbusplus
 
 go 1.16
 
